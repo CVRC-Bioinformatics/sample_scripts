@@ -1,0 +1,15 @@
+../fastq/9-13-6f_S5_L001_R1_001.fastq.gz	../fastq/9-13-6f_S5_L001_R2_001.fastq.gz	../bams/9-13-6f_S5_L001.sorted
+../fastq/9-13-5e_S4_L001_R1_001.fastq.gz	../fastq/9-13-5e_S4_L001_R2_001.fastq.gz	../bams/9-13-5e_S4_L001.sorted
+../fastq/9-13-3c_S3_L001_R1_001.fastq.gz	../fastq/9-13-3c_S3_L001_R2_001.fastq.gz	../bams/9-13-3c_S3_L001.sorted
+../fastq/9-13-2b_S2_L001_R1_001.fastq.gz	../fastq/9-13-2b_S2_L001_R2_001.fastq.gz	../bams/9-13-2b_S2_L001.sorted
+../fastq/9-13-1a_S1_L001_R1_001.fastq.gz	../fastq/9-13-1a_S1_L001_R2_001.fastq.gz	../bams/9-13-1a_S1_L001.sorted
+../fastq/8-12-6_S8_L001_R1_001.fastq.gz	../fastq/8-12-6_S8_L001_R2_001.fastq.gz	../bams/8-12-6_S8_L001.sorted
+../fastq/8-12-5_S7_L001_R1_001.fastq.gz	../fastq/8-12-5_S7_L001_R2_001.fastq.gz	../bams/8-12-5_S7_L001.sorted
+../fastq/8-12-2_S6_L001_R1_001.fastq.gz	../fastq/8-12-2_S6_L001_R2_001.fastq.gz	../bams/8-12-2_S6_L001.sorted
+../fastq/11-27-8_S11_L002_R1_001.fastq.gz	../fastq/11-27-8_S11_L002_R2_001.fastq.gz	../bams/11-27-8_S11_L002.sorted
+../fastq/11-27-3_S10_L002_R1_001.fastq.gz	../fastq/11-27-3_S10_L002_R2_001.fastq.gz	../bams/11-27-3_S10_L002.sorted
+../fastq/11-27-1_S9_L002_R1_001.fastq.gz	../fastq/11-27-1_S9_L002_R2_001.fastq.gz	../bams/11-27-1_S9_L002.sorted
+../fastq/11-27-16_S14_L002_R1_001.fastq.gz	../fastq/11-27-16_S14_L002_R2_001.fastq.gz	../bams/11-27-16_S14_L002.sorted
+../fastq/11-27-14_S13_L002_R1_001.fastq.gz	../fastq/11-27-14_S13_L002_R2_001.fastq.gz	../bams/11-27-14_S13_L002.sorted
+../fastq/11-27-13_S12_L002_R1_001.fastq.gz	../fastq/11-27-13_S12_L002_R2_001.fastq.gz	../bams/11-27-13_S12_L002.sorted
+../fastq/8-12-7_S15_L002_R1_001.fastq.gz	../fastq/8-12-7_S15_L002_R2_001.fastq.gz	../bams/8-12-7_S15_L002.sorted

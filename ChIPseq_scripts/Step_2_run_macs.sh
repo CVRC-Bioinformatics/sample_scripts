@@ -20,7 +20,7 @@ echo $myName
 
 module load macs2/2.1.1
 
-macs2 callpeak -t $mytreat -n $myName --outdir /gpfs/data/fisherlab/Bianca_ATAC/macs/ -g 2.7e9 -f BAMPE
+macs2 callpeak -t $mytreat -n $myName --outdir project_folder/macs/ -g 2.7e9 -f BAMPE
 
 #date
 d2=$(date +%s)

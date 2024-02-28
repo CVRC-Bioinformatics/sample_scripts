@@ -1,4 +1,4 @@
-Reg.PRPR.promoter.RegBiased.bed	Reg.PRPR.promoter.RegBiased.Homer_results
-Reg.PRPR.promoter.PRPRBiased.bed	Reg.PRPR.promoter.PRPRBiased.Homer_results
-Prog.PRP.promoter.ProgBiased.bed	Prog.PRP.promoter.ProgBiased.Homer_results
-Prog.PRP.promoter.PRPBiased.bed	Prog.PRP.promoter.PRPBiased.Homer_results
+File1.bed	File1.Homer_results
+File2.bed	File2.Homer_results
+File3.bed	File3.Homer_results
+File4.bed	File4.Homer_results

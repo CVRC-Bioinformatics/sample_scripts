@@ -1,0 +1,4 @@
+Reg.PRPR.promoter.RegBiased.bed	Reg.PRPR.promoter.RegBiased.Homer_results
+Reg.PRPR.promoter.PRPRBiased.bed	Reg.PRPR.promoter.PRPRBiased.Homer_results
+Prog.PRP.promoter.ProgBiased.bed	Prog.PRP.promoter.ProgBiased.Homer_results
+Prog.PRP.promoter.PRPBiased.bed	Prog.PRP.promoter.PRPBiased.Homer_results

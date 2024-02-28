@@ -13,12 +13,12 @@ d1=$(date +%s)
  
 echo $HOSTNAME
  
-myoutfile='projectfolder/FeatureCounts_data/FeatureCounts_table'
-mybams=`cat projectfolder/key_to_FeatureCounts.txt`
+myoutfile='/gpfs/data/labfolder/projectfolder/FeatureCounts_data/FeatureCounts_table'
+mybams=`cat /gpfs/data/labfolder/projectfolder/key_to_FeatureCounts.txt`
 
 module load subread/1.6.3
  
-featureCounts -T 12 -p -g gene_id --extraAttributes gene_type,gene_name -M -a genomes/hg38/gencode.v28.annotation.gtf -o $myoutfile $mybams
+featureCounts -T 12 -p -g gene_id --extraAttributes gene_type,gene_name -M -a /gpfs/data/moorelab/genomes/mm10/gencode.vM18.annotation.gtf -o $myoutfile $mybams
  
 #date
 d2=$(date +%s)

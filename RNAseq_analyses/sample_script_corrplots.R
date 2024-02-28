@@ -65,8 +65,8 @@ dev.off()
 # ***
 # Florencia Schlamp, PhD  
 # Florencia.Schlamp@nyulangone.org  
-# Sr. Bioinformatics Programmer  
-# Division of Cardiology  
-# New York University Langone Health  
+# Assistant Director of Bioinformatics
+# NYU Cardiovascular Research Center
+# New York University Langone Health
 # 435 East 30th Street | Science Bldg 604 | New York, NY | 10016
 

@@ -20,10 +20,10 @@ echo $myOutDir
 
 module load homer/4.10
 
-findMotifsGenome.pl $myBed /gpfs/data/moorelab/browne20/genomes/mm10/mm10.fa $myOutDir -size 200 -p 4
+findMotifsGenome.pl $myBed genomes/mm10/mm10.fa $myOutDir -size 200 -p 4
 
 #date
 d2=$(date +%s)
 sec=$(( ( $d2 - $d1)))
-hour =$(echo - | awk '{print '$sec'/3600}')
+hour=$(echo - | awk '{print '$sec'/3600}')
 echo Runtime: $hour hours \($sec\s\)

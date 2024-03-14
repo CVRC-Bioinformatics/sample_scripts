@@ -25,7 +25,7 @@ echo $output_name
  
 module load star/2.6.1d
  
-STAR --genomeDir /gpfs/data/moorelab/genomes/mm10/STAR --runThreadN 8 --readFilesCommand zcat --readFilesIn $path/raw_data/$read1.fastq.gz $path/raw_data/$read2.fastq.gz --outSAMprimaryFlag AllBestScore --outSAMtype BAM SortedByCoordinate --outFileNamePrefix $path/STAR_mapped_data/$output_name. --quantMode GeneCounts
+STAR --genomeDir /genomes/mm10/STAR --runThreadN 8 --readFilesCommand zcat --readFilesIn $path/raw_data/$read1.fastq.gz $path/raw_data/$read2.fastq.gz --outSAMprimaryFlag AllBestScore --outSAMtype BAM SortedByCoordinate --outFileNamePrefix $path/STAR_mapped_data/$output_name. --quantMode GeneCounts
 
 #date
 d2=$(date +%s)

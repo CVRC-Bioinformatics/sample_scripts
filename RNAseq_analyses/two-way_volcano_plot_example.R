@@ -28,8 +28,8 @@ subset_comparison2 <- results_comparison2[rownames(results_comparison2) %in% gen
 
 genes_intersect <- intersect(rownames(subset_comparison1),rownames(subset_comparison2))
 
-subset_comparison1 <- subset_comparison1[rownames(results_comparison1) %in% genes_intersect,]
-subset_comparison2 <- subset_comparison2[rownames(results_comparison2) %in% genes_intersect,]
+subset_comparison1 <- subset_comparison1[rownames(subset_comparison1) %in% genes_intersect,]
+subset_comparison2 <- subset_comparison2[rownames(subset_comparison2) %in% genes_intersect,]
 nrow(subset_comparison1)
 nrow(subset_comparison2)
 
